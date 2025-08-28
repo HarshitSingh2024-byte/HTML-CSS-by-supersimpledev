@@ -1,1 +1,1 @@
-# HTML-CSS-by-supersimpledev
+Hi, I am harhit singh and I have done the html and css course by learning through supersimple dev and the final task of the course was youtube.com clone but it is not fully completed. It has some work needed .
