@@ -1,0 +1,26 @@
+p{
+    font-family:roboto;
+}
+.topic-head{
+    font-size:30px;
+    color:black;
+    font-weight:bold;
+    text-align:center;
+
+}
+.Delivery-link{
+    cursor:pointer;
+
+}
+.Delivery-link:hover{
+    text-decoration:underline;
+    color:blue;
+}
+.main-line{
+    text-align:center;
+    background-color: blueviolet;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+
+}

@@ -1,0 +1,294 @@
+    body{
+                background-color:red;
+                margin:0px;
+               
+                
+            }
+            .header{
+    height:55px;
+    
+    flex-direction: row;
+    justify-content:space-between;
+}
+h2{
+    font-family:Roboto, Arial;
+    color:black;
+    margin-left:10px;
+    margin-top:10px;
+    display:block;
+    text-align: center;
+}
+
+
+    
+
+.heading{
+    font-family:Roboto, Arial;
+    font-size:24px;
+    color:rgb(255, 255, 255);
+    margin-left:10px;
+    margin-top:10px;
+    display:block;
+    text-align: center;
+}
+
+
+
+
+#box{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    
+    
+}
+            
+            .title-card{
+               
+                display:inline-block;
+                vertical-align: top;
+                margin-right: 30px;
+                background-color:peru;
+                margin-left: 30px;
+                margin-top: 10px;
+                border-radius: 15px;
+                
+                
+            
+               
+                
+            }
+            .title1-card{
+                
+                display:inline-block;
+                background-color: lightseagreen;
+                vertical-align: top;
+                margin-right: 30px;
+                margin-top:10px;
+                border-radius: 15px;
+                
+                
+            }
+            .apex-title{
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+                
+            }
+            .apex-downloads{
+                font-family: Arial, Helvetica, sans-serif;
+                
+                
+            }
+            .valorant-title{
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+                
+            }
+            .valorant-downloads{
+                font-family: Arial, Helvetica, sans-serif;
+            
+            
+            }
+            .apex{
+                width:200px;
+                border-radius: 15px;
+                
+            }
+            
+            .valorant{
+                width:200px;
+                border-radius: 15px;
+
+            }
+            .GOT{
+                width:210px;
+                height:110px;
+                border-radius: 15px;
+            }
+            .GOT-title{
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+                
+            }
+            .GOT-downloads{
+                font-family: Arial, Helvetica, sans-serif;
+                
+                
+            }
+            .title2-card{
+                display:inline-block;
+                background-color: gray;
+                vertical-align: top;
+                margin-top:10px;
+                border-radius: 15px;
+                
+            }
+             .apex-button{
+                background-color: peru;
+                width:100px;
+                height:30px;
+                margin:10px auto;
+                display:block;
+                font-family:Arial, Helvetica, sans-serif;
+                border-radius: 4px;
+                text-decoration: none;
+                
+                
+
+            }
+            .valorant-button{
+                background-color: lightseagreen;
+                width:100px;
+                height:30px;
+                margin:10px auto;
+                display:block;
+                font-family:Arial, Helvetica, sans-serif;
+                border-radius: 4px;
+                
+                
+            }
+            .GOT-button{
+                
+             background-color: gray;
+                width:100px;
+                height:30px;
+                margin:10px auto;
+                display:block;
+                font-family:Arial, Helvetica, sans-serif;
+                border-radius: 4px;
+                }
+            .title3-card{
+                display:inline-block;
+                background-color: burlywood;
+                vertical-align: top;
+                width:200px;
+                margin-top:10px;
+                margin-left:30px;
+                border-radius: 15px;
+            }
+            .Miles{
+                width:200px;
+                border-radius: 15px;
+                
+                            }
+            .Miles-title{
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+                
+            }
+            .Miles-downloads{
+                 font-family: Arial, Helvetica, sans-serif;
+                
+                
+
+            }
+            .Miles-button{
+                background-color: burlywood;
+                width:100px;
+                height:30px;
+                margin:10px auto;
+                display:block;
+                font-family:Arial, Helvetica, sans-serif;
+                border-radius: 4px;
+            }
+            .title4-card{
+                display:inline-block;
+                background-color:rgba(185, 160, 101, 0.93);
+                vertical-align: top;
+                width:200px;
+                margin-top:10px;
+                margin-left:30px;
+                border-radius: 15px;
+                
+            }
+            .LOU{
+                width:200px;
+                height:110px;
+                border-radius: 15px;
+                
+            }
+            .LOU-title{
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+                
+            }
+            .LOU-downloads{
+                font-family: Arial, Helvetica, sans-serif;
+                
+                
+            }
+            .LOU-button{
+                background-color: rgba(185, 160, 101, 0.93);
+                width:100px;
+                height:30px;
+                margin:10px auto;
+                display:block;
+                font-family:Arial, Helvetica, sans-serif;
+                border-radius: 4px;
+            }
+            .LOU-button a, .GOT-button a, .Miles-button a, .valorant-button a, .apex-button a{
+                text-decoration: none;
+                color: black;
+            }
+            .title5-card{
+                display:inline-block;
+                background-color: rgb(27, 127, 177);
+                vertical-align: top;
+                width:200px;
+                margin-top:10px;
+                margin-left:30px;
+                border-radius: 15px;
+            }
+            .detroit{
+                width:200px;
+               
+                border-radius: 15px;
+            }
+            
+                
+            
+            .detroit-title{
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+                
+            }
+            .detroit-downloads{
+                font-family: Arial, Helvetica, sans-serif;
+                
+                
+            }
+            .detroit-button{
+                background-color: rgb(27, 127, 177);
+                width:100px;
+                height:30px;
+                margin:10px auto;
+                display:block;
+                font-family:Arial, Helvetica, sans-serif;
+                border-radius: 4px;
+            }
+            .detroit-button a{
+                text-decoration: none;
+                color: black;
+            }
+            .title-card:hover{
+                background-color: darkorange;
+            }
+            .title1-card:hover{
+                background-color: darkcyan;
+            }
+            .title2-card:hover{
+                background-color: darkgray;
+            }
+            .title3-card:hover{
+                background-color: saddlebrown;
+            }
+            .title4-card:hover{
+                background-color: rgb(150, 120, 60);
+            }
+            .title5-card:hover{
+                background-color: rgb(20, 80, 120);
+            }
+            
+ 
